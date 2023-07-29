@@ -4,7 +4,8 @@ title: "About me"
 author: "Xuan"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: About Xuan.jpg
+
 ---
 
 你好！我叫蔡思源
