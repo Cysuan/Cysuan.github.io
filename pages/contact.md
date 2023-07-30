@@ -6,4 +6,5 @@ permalink: /contact
 
 Reach out and be friends！
 
-mailto:caisiyuanabi@163.com
+<a href="mailto:caisiyuanabi@163.com">caisiyuanabi@163.com</a>
+
