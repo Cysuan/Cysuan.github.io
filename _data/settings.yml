@@ -8,10 +8,10 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
+- {name: 'Work',               url: 'works'}
 - {name: 'Contact',            url: 'contact'}
+- {name: 'Shop',               url: 'shop'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
