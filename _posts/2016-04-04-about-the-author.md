@@ -4,7 +4,7 @@ title: "About me"
 author: "Xuan"
 categories: facts
 tags: [sample]
-image: wodezhaopian.jpg
+image: zhuyazhaopian.jpg
 
 ---
 
