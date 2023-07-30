@@ -4,9 +4,21 @@ title: About me
 permalink: /about
 ---
 
-I'm Xuan, This is my website!
-我之前的个人网站不见了！索性尝试github建站，请期待
 
-Hope you are doing well!
+你好！我叫蔡思源
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+我喜欢打羽毛球🏸️，画油画✨，听播客！
+
+喜欢开阔的景色，喜欢夜晚骑车，喜欢冒险，喜欢意外发现
+
+
+Hi there! I'm Xuan. 
+
+I enjoy playing badminton 🏸️, painting with oil colors ✨, and listening to podcasts! 
+
+I love vast landscapes, biking at night, seeking adventures, and cherishing unexpected discoveries.
+
+Reach out and be friends!  
+
+<a href="mailto:caisiyuanabi@163.com">caisiyuanabi@163.com</a>
+
