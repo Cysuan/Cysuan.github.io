@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Now',                url: 'now'}
 - {name: 'About',              url: 'about'}
 - {name: 'Work',               url: 'works'}
 - {name: 'Contact',            url: 'contact'}
