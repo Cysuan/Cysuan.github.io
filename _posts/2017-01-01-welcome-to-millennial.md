@@ -8,6 +8,9 @@ image: wodezhaopian.jpg
 date: 2023-8-8
 ---
 
+![zhuyedezhaopian](/assets/img/zhuyazhaopian.jpg)
+
+
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
 ## Getting Started
