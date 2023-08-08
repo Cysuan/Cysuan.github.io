@@ -10,8 +10,8 @@ permalink: /contact
   }
 </style>
 
-Reach out and be friends!
 
+Reach out and be friends!
 <pre>
            ___..__
   __..--""" ._ __.'
