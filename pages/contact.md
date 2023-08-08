@@ -11,7 +11,7 @@ permalink: /contact
 </style>
 
 <br><br>
-<span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; color: transparent; font-size: 24px; font-weight: bold;">Reach out and be friends!</span><br>
+<span style="font-size: 24px; font-weight: bold;">Reach out and be friends!</span><br>
 
 
 <pre>
