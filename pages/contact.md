@@ -21,7 +21,7 @@ Reach out and be friends!
     `-..__ '"---..._;"
           """"----'       Hi
 </pre>
-<span style="color: red;"><a href="mailto:caisiyuanabi@163.com">caisiyuanabi@163.com</a></span><br>
+<a href="mailto:caisiyuanabi@163.com" style="color: red;">caisiyuanabi@163.com</a><br>
 <pre>
                          __..,,... .,,,,,.
                      ''''        ,'        ` .
