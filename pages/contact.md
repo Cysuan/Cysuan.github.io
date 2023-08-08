@@ -19,11 +19,9 @@ Reach out and be friends!
             '"--..____";
  ___        '--...____"";
     `-..__ '"---...___;"
-          """"------'       Hi
+          """"------'       Hi         <a href="mailto:caisiyuanabi@163.com" style="color: red;">caisiyuanabi@163.com</a><br>
 </pre>
-<div style="text-align: center;">
-  <a href="mailto:caisiyuanabi@163.com" style="color: red;">caisiyuanabi@163.com</a><br>
-</div>
+
 <pre>
                          __..,,... .,,,,,.
                      ''''        ,'        ` .
