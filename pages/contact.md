@@ -4,7 +4,18 @@ title: Contact
 permalink: /contact
 ---
 
-Reach out and be friends！
+<style>
+  pre {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    background-color: white; /* 将背景色设置为白色 */
+    padding: 10px; /* 添加内边距，以便与内容保持一定的距离 */
+  }
+</style>
+
+Reach out and be friends!
 
 <pre>
            ___..__
@@ -15,7 +26,6 @@ Reach out and be friends！
     `-..__ '"---..._;"
           """"----'       Hi
 
-background-color: white; /* 将背景色设置为白色 */
 </pre><br>
 <pre>
                          __..,,... .,,,,,.
@@ -29,4 +39,3 @@ background-color: white; /* 将背景色设置为白色 */
                                    ` -'`''
 </pre>
 <a href="mailto:caisiyuanabi@163.com">caisiyuanabi@163.com</a>
-
