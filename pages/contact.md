@@ -11,6 +11,7 @@ permalink: /contact
 </style>
 
 <br><br>
+<span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; color: transparent; font-size: 24px; font-weight: bold;">Reach out and be friends!</span><br>
 
 
 <pre>
@@ -20,7 +21,7 @@ permalink: /contact
             '"--..____";
  ___        '--...____"";
     `-..__ '"---...___;"
-          """"------'       Hi!   <span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; color: transparent; font-size: 24px; font-weight: bold;">Reach out and be friends!</span><br>
+          """"------'       Hi!   <a href="mailto:caisiyuanabi@163.com" style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; color: transparent;">caisiyuanabi@163.com</a><br>
 
 </pre>
 
