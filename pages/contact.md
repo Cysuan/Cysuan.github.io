@@ -14,6 +14,8 @@ Reach out and be friends！
  ___        '--...__"";
     `-..__ '"---..._;"
           """"----'       Hi
+
+background-color: white; /* 将背景色设置为白色 */
 </pre><br>
 <pre>
                          __..,,... .,,,,,.
