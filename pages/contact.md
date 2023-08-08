@@ -10,8 +10,33 @@ permalink: /contact
   }
 </style>
 
+<br><br>
+<span style="font-size: 24px; font-weight: bold; color: red;">R</span>
+<span style="font-size: 24px; font-weight: bold; color: orange;">e</span>
+<span style="font-size: 24px; font-weight: bold; color: yellow;">a</span>
+<span style="font-size: 24px; font-weight: bold; color: green;">c</span>
+<span style="font-size: 24px; font-weight: bold; color: blue;">h</span>
+<span style="font-size: 24px; font-weight: bold; color: indigo;"> </span>
+<span style="font-size: 24px; font-weight: bold; color: violet;">o</span>
+<span style="font-size: 24px; font-weight: bold; color: red;">u</span>
+<span style="font-size: 24px; font-weight: bold; color: orange;">t</span>
+<span style="font-size: 24px; font-weight: bold; color: yellow;"> </span>
+<span style="font-size: 24px; font-weight: bold; color: green;">a</span>
+<span style="font-size: 24px; font-weight: bold; color: blue;">n</span>
+<span style="font-size: 24px; font-weight: bold; color: indigo;">d</span>
+<span style="font-size: 24px; font-weight: bold; color: violet;"> </span>
+<span style="font-size: 24px; font-weight: bold; color: red;">b</span>
+<span style="font-size: 24px; font-weight: bold; color: orange;">e</span>
+<span style="font-size: 24px; font-weight: bold; color: yellow;"> </span>
+<span style="font-size: 24px; font-weight: bold; color: green;">f</span>
+<span style="font-size: 24px; font-weight: bold; color: blue;">r</span>
+<span style="font-size: 24px; font-weight: bold; color: indigo;">i</span>
+<span style="font-size: 24px; font-weight: bold; color: violet;">e</span>
+<span style="font-size: 24px; font-weight: bold; color: red;">n</span>
+<span style="font-size: 24px; font-weight: bold; color: orange;">d</span>
+<span style="font-size: 24px; font-weight: bold; color: yellow;">s</span>
+<span style="font-size: 24px; font-weight: bold; color: green;">!</span>
 
-Reach out and be friends!
 <pre>
            ___..__
   __..--""" ._ __.'
