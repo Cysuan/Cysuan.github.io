@@ -3,7 +3,11 @@ layout: page
 title: Shop
 permalink: /shop
 ---
-
+<style>
+  pre {
+    background-color: white; /* 将背景色设置为白色 */
+  }
+</style>
 <pre>
                                                     __________
              _,---.                          _..--'/          \
