@@ -29,11 +29,6 @@ _/_>_______|_______< \__                  \  ._|.)              __\/__
 
 Hi there! I'm Xuan. 
 
-I enjoy playing badminton 🏸️, painting with oil colors ✨, and listening to podcasts! 
+I enjoy playing badminton, painting with oil colors, and watching tv series! 
 
-I love vast landscapes, biking at night, seeking adventures, and cherishing unexpected discoveries.
-
-Reach out and be friends!  
-
-<a href="mailto:caisiyuanabi@163.com">caisiyuanabi@163.com</a>
-
+I love expansive landscapes, cycling with the wind, seeking adventure, and relishing in serendipitous discoveries.
