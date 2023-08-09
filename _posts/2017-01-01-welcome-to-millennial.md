@@ -8,6 +8,15 @@ image: wodezhaopian.jpg
 date: 2023-8-8
 ---
 
+    .-.  _
+    | | / )
+    | |/ /
+   _|__ /_
+  / __)-' )
+  \  `(.-')
+   > ._>-'
+  / \/
+欢迎来到我的个人网站！
 ![zhuyedezhaopian](/assets/img/wodezhaopian.jpg)
 
 
