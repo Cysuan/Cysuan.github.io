@@ -4,7 +4,6 @@ title: "Welcome to my website!"
 author: "Xuan"
 categories: documentation
 tags: [documentation]
-image: wodezhaopian.jpg
 date: 2023-8-8
 ---
 
