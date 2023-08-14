@@ -16,3 +16,9 @@ permalink: /work
 
 在这个毕业的档口，我希望去尝试更多
 研究生三年，我在各大传统设计院有过接近一年的实习经历，
+
+
+
+作为一个女性，我坚决反对职场中的性别歧视，也相信自己有无限可能。<br>
+Stacey Abrams是我特别敬佩的女性榜样，我也想成为这样的人，<br>
+down-to-earth, grassroots, "aggressively" pushing for the good causes.
