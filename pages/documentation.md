@@ -1,9 +1,16 @@
 ---
-layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+layout: page
+title: Work
+permalink: /work
 ---
+
+<style>
+  pre {
+    background-color: white; /* 将背景色设置为白色 */
+  }
+</style>
+
+
 城市规划是我学了七年的“老本行”，我喜欢规划和设计，乐于去创造和发现；
 也关注从城市到社会空间的议题，专业帮助我看到社会的更多面向，我学会了放低视角。<br>
 
