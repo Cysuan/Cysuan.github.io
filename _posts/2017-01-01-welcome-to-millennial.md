@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my website!"
+title: "欢迎光临！"
 author: "Xuan"
 categories: documentation
 tags: [documentation]
