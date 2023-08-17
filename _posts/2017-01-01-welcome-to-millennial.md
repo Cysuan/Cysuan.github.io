@@ -5,7 +5,7 @@ author: "Xuan"
 categories: documentation
 tags: [documentation]
 date: 2023-8-8
-image: /assets/img/welcome.png
+image: city-1.jpg
 ---
 ![Welcome Image](/assets/img/welcome.png)
 
