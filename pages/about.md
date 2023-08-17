@@ -4,15 +4,15 @@ title: About me
 permalink: /about
 author: "Xuan"
 date: 2023-8-18
-image: aboutme.png
 ---
 <style>
   pre {
     background-color: white; /* 将背景色设置为白色 */
   }
 </style>
+![Aboutme Image](/assets/img/aboutme.png)
 
-<br><br>
+<br>
 你好！我叫蔡思源
 
 我喜欢打羽毛球🏸️，画油画🎨，看剧🛋️
