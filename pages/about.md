@@ -2,10 +2,8 @@
 layout: page
 title: About me
 permalink: /about
-
 author: "Xuan"
-tags: [documentation]
-date: 2023-8-8
+date: 2023-8-18
 image: aboutme.png
 ---
 <style>
