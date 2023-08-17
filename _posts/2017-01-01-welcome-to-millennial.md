@@ -7,7 +7,6 @@ tags: [documentation]
 date: 2023-8-8
 image: welcome.png
 ---
-![Welcome Image](/assets/img/welcome.png)
 
 <br>
 <style>
