@@ -6,6 +6,7 @@ categories: documentation
 tags: [documentation]
 date: 2023-8-8
 ---
+![Welcome Image](/assets/img/welcome.png)
 
 <br>
 <style>
