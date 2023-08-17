@@ -2,7 +2,7 @@
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       {% if post.preview_image %}<img src="{{ site.github.url }}/assets/img/{{ post.preview_image }}" alt="{{ post.title }} Preview Image">{% endif %}
-      <h2><span>{{ post.title }}</span></h2>
+      <h2><span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fc8328; background-color: #fcecd3;">{{ post.title }}</span></h2>
     </div>
   </a>
 </article>
