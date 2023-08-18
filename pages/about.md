@@ -5,27 +5,18 @@ permalink: /about
 author: "Xuan"
 date: 2023-8-18
 ---
-<style>
-  pre {
-    background-color: white; /* 将背景色设置为白色 */
-  }
-</style>
-<br>
-![Aboutme Image](/assets/img/aboutme.png)
-你好！我叫蔡思源
-
-我喜欢打羽毛球，画油画，看剧
-
-喜欢开阔的景色，喜欢骑车吹风，喜欢冒险，喜欢意外发现
-
-愿望是成为水豚
-<pre>
-                                                   \e/
-    ____     __o   __o      ____    __o             I
-  ____      -\<,  -\<,    ____     -\<,            `\\,
- ............0/ 0..0/ 0.............0/ 0 ..........O/_O........
-<br><br>
-</pre>
+<div class="image-with-text">
+  <div class="image-container">
+    ![Aboutme Image](/assets/img/aboutme.png)
+  </div>
+  <div class="text-content">
+    <p>
+      你好！我叫蔡思源<br>
+      我喜欢打羽毛球，画油画，看剧<br>
+      喜欢开阔的景色，喜欢骑车吹风，喜欢冒险，喜欢意外发现 ✨<br>
+    </p>
+  </div>
+</div>
 
 
 Hi there! I'm Xuan. 
