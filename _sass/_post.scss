@@ -1,3 +1,24 @@
+/* 自定义的排版样式 */
+.image-with-text {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* 调整图片和文字之间的间距 */
+}
+
+.image-container {
+  flex: 1; /* 图片部分占据剩余的空间 */
+  max-width: 50%; /* 控制图片最大宽度，可根据需要调整 */
+}
+
+.image-container img {
+  max-width: 100%; /* 图片宽度填充父容器 */
+  display: block;
+}
+
+.text-content {
+  flex: 1; /* 文字部分占据剩余的空间 */
+}
+
 .post-content {
   width: 600px;
   display: block;
