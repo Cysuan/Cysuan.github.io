@@ -2,12 +2,12 @@
 .image-with-text {
   display: flex;
   align-items: center;
-  gap: 20px; /* 调整图片和文字之间的间距 */
+  gap: 1px; /* 调整图片和文字之间的间距 */
 }
 
 .image-container {
   flex: 1; /* 图片部分占据剩余的空间 */
-  max-width: 50%; /* 控制图片最大宽度，可根据需要调整 */
+  max-width: 30%; /* 控制图片最大宽度，可根据需要调整 */
 }
 
 .image-container img {
