@@ -5,6 +5,8 @@ permalink: /about
 author: "Xuan"
 date: 2023-8-18
 ---
+![Aboutme Image](/assets/img/aboutme.png)
+
 <div class="image-with-text">
   <div class="image-container">
     ![Aboutme Image](/assets/img/aboutme.png)
