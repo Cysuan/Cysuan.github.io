@@ -6,6 +6,7 @@ categories: documentation
 tags: [documentation]
 date: 2023-8-8
 image: welcome.png
+permalink: /welcome
 ---
 <style>
   pre {
