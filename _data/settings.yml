@@ -7,11 +7,11 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Now',                url: 'now'}
+- {name: 'Blog',                url: 'blog'}
 - {name: 'About',              url: 'about'}
-- {name: 'Work',               url: 'works'}
+- {name: 'Painting',           url: 'painting'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Shop',               url: 'shop'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -26,9 +26,5 @@ social:
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'
-
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
