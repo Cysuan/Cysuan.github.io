@@ -1,13 +1,9 @@
 ---
 layout: page
-title: Work
-permalink: /works
+title: My Painting Collection
+permalink: /painting
 ---
 
-<style>
-  pre {
-    background-color: white; /* 将背景色设置为白色 */
-  }
-</style>
+Welcome to my painting collection. Click on the images to view and purchase the paintings.
 
-这部分我还没写完
+{% include painting-gallery.html %}
