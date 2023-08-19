@@ -15,7 +15,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'github', link:    'https://github.com/Cysuan'}
 - {icon: 'redbook', link:   'https://www.xiaohongshu.com/user/profile/6000072c0000000001001943'}
 - {icon: 'mastodon', link:  'https://m.cmx.im/@beautygranny'}
 - {icon: 'envelope', link:   'mailto:caisiyuanabi@163.com'}
