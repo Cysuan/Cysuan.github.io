@@ -18,24 +18,6 @@ So a website with a link that says “now” goes to a page that tells you what 
     background-color: white; /* 将背景色设置为白色 */
   }
 </style>
-<pre>
-<br>
-Life is short but people
-  still get bored.                 YYAAaaaawwwnnn...
-             \                              \
-              ____                           ____
-             , ,)\                          _ _)\\
-            /<   c                         /<   c
-            \o__/(_____                    \_)_/(_____
-       _)|/   ,/\_/\  '\            |//_    ,/\_/\  '\
-      ('/___/  \$/     \             \ )___/  \$/     \
-       \\)  \/  :    <  \             \\)  \/  :    <  \
-       |/____|  |   /   /             |/____|  |   /   /
-             |  :  /__o/                   |  :  /__o/
-             |__'__/(_|                    |__'__/(_| 
-                   \ )_                           \ )_
-                   /|\                            /|\
-</pre>
 <br>
 以下是我的近况：
 
