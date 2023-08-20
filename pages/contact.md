@@ -3,15 +3,13 @@ layout: page
 title: Reach out and be friends!
 permalink: /contact
 ---
-hh
 <style>
   pre {
     background-color: white; /* 将背景色设置为白色 */
   }
 </style>
 
-<br><br>
-
+<br>
 
 <pre>
            ___..__
