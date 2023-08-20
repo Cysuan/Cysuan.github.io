@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation]
 date: 2023-8-8
 image: welcome.png
-permalink: /new
+permalink: /lately
 ---
 
 距离第一次制作个人网站已经有一年了，去年的 about me page 已经不能来描述现在的我了
