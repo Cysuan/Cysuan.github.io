@@ -9,6 +9,9 @@ image: what'snew.png
 permalink: /lately
 ---
 
+![lately](/assets/img/what'snew.png)
+
+
 距离第一次制作个人网站已经有一年了，去年的 about me page 已经不能来描述现在的我了
 特开此页，向您介绍 这个人 在生命中的这一点上 专注于什么。
 
