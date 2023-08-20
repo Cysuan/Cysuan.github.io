@@ -4,7 +4,7 @@ title: "What's new！"
 author: "Xuan"
 categories: documentation
 tags: [documentation]
-date: 2023-8-8
+date: 2023-8-19
 image: what'snew.png
 permalink: /lately
 ---
