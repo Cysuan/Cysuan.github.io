@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Reseme',             url: 'reseme'}
+- {name: 'Resume',             url: 'resume'}
 - {name: 'About',              url: 'about'}
 - {name: 'Painting',           url: 'painting'}
 - {name: 'Contact',            url: 'contact'}
