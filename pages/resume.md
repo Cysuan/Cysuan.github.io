@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Resume
+title: 个人简历
 permalink: /resume
+author: "Xuan"
+date: 2023-8-20
 ---
+
 <style>
   pre {
     background-color: white; /* 将背景色设置为白色 */
