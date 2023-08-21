@@ -9,8 +9,6 @@ permalink: /lately
 image: what'snew.png
 ---
 
-![lately](/assets/img/what'snew.png)
-
 <style>
   pre {
     background-color: white; /* 将背景色设置为白色 */
@@ -19,7 +17,8 @@ image: what'snew.png
 <br>
 
 耗时大半年，终于完成了硕士毕业论文🎓
-<span class="silver-text">（为论文掉的头发比失恋的泪水都多💧）</span><br>
+<span style="color: silver;">（为论文掉的头发比失恋的泪水都多💧）</span><br>
+
 在这个刚毕业的档口，一边期待着自我价值的实现，一边在尝试做有意义感的探寻。<br>
 我特别希望自己的价值被看见，也特别希望能找到适合自己的那块拼图。<br>
 🧩<br><br>
