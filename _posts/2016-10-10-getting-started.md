@@ -41,5 +41,5 @@ permalink: /lately
 时间向前我也向前<br>
 ⏳<br><br>
 
-![guoguo](/assets/img/guoguo.jpg)
+![guoguo](/assets/img/guoguo.jpeg)
 
