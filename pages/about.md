@@ -18,7 +18,5 @@ date: 2023-8-18
   喜欢开阔的景色，喜欢骑车吹风，喜欢冒险，喜欢意外发现 ✨<br><br>
 
 Hi there! I'm Xuan. 
-
 I enjoy playing badminton, painting with oil colors, and watching tv series! 
-
 I love expansive landscapes, cycling with the wind, seeking adventure, and relishing in serendipitous discoveries.
