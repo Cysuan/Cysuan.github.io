@@ -11,4 +11,5 @@ date: 2023-8-20
     background-color: white; /* 将背景色设置为白色 */
   }
 </style>
-<a href="/assets/resume.pdf" download>下载我的简历</a>
+
+<a href="/assets/resume.pdf" download style="font-size: 20px; color: orange;">下载简历🤲</a>
