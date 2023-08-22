@@ -1,4 +1,4 @@
-<img width="592" alt="image" src="https://github.com/Cysuan/Cysuan.github.io/assets/90298412/b9f1f808-63e9-47c0-acf2-5704eb972596">---
+---
 layout: page
 title: 个人简历
 permalink: /resume
