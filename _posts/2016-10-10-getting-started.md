@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation]
 date: 2023-8-8
 permalink: /lately
-image: banner.png
+image: whatsnew.png
 ---
 
 <style>
@@ -23,6 +23,3 @@ image: banner.png
 终于打开两年前购买的python课程重新学习，<br>
 最近还开始进行一些水培养殖，水培了荔枝、榴莲和牛油果<br>
  🌱<br><br>
- 
-![guoguo](/assets/img/guoguo.jpeg)
-
