@@ -12,4 +12,9 @@ date: 2023-8-20
   }
 </style>
 
+
+<iframe src="/assets/resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+
+
 <a href="/assets/resume.pdf" download style="font-size: 20px; color: orange;">下载简历🤲</a>
