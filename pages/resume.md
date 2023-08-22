@@ -13,8 +13,7 @@ date: 2023-8-20
 </style>
 <pre>
 
-<a href="/resume.pdf" download>下载我的简历</a>
-
+<a href="/assets/resume.pdf" download>下载我的简历</a>
                                                     __________
              _,---.                          _..--'/          \
           ,-'      )                    _,-,'     /            \
