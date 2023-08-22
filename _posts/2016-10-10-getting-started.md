@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation]
 date: 2023-8-8
 permalink: /lately
-image: what'snew.png
+image: banner.png
 ---
 
 <style>
