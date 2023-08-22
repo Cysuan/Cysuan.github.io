@@ -52,6 +52,17 @@ down-to-earth, grassroots, "aggressively" pushing for the good causes.<br>
 我相信每一次尝试都是为自己打开一道门，也相信所有的开始都是 learn by doing，<br>
 更相信我自己，具备成长的无限可能。
 
+<pre>
+           _
+          |)`
+          | |
+          | |_____
+         /    (]__)
+        /    (]___)
+       /    (]___)
+          ___(]_)
+         /
+</pre> 
 <iframe src="/assets/resume.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 <a href="/assets/resume.pdf" download style="font-size: 20px; color: orange;">下载简历🤲</a>
