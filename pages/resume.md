@@ -11,7 +11,7 @@ date: 2023-8-20
   }
 </style>
 <br>
-你好！👋<br>
+你好！👋<br><br>
 我叫蔡思源，来自重庆，刚刚于重庆大学硕士毕业，<br>
 在这个快要进入下一阶段的档口，<br>
 一边期待着自我价值的实现，一边在尝试做有意义感的探寻。<br>
@@ -39,8 +39,8 @@ Stacey Abrams是我特别敬佩的女性榜样，我也想成为这样的人，<
 down-to-earth, grassroots, "aggressively" pushing for the good causes.<br>
 🦸<br><br>
 我相信每一次尝试都是为自己打开一道门，也相信所有的开始都是 learn by doing，<br>
-更相信我自己，具备成长的无限可能。
-
+更相信我自己，具备成长的无限可能。<br>
+✨<br>
 <pre>
            _
           |)`
