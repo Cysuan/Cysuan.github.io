@@ -38,7 +38,7 @@ date: 2023-8-20
 我坚决反对职场中的性别歧视，也相信自己有无限可能。<br>
 Stacey Abrams是我特别敬佩的女性榜样，我也想成为这样的人，<br>
 down-to-earth, grassroots, "aggressively" pushing for the good causes.<br>
-🦸<br><br><br>
+🦸<br><br>
 我相信每一次尝试都是为自己打开一道门，也相信所有的开始都是 learn by doing，<br>
 更相信我自己，具备成长的无限可能。
 
