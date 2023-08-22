@@ -17,6 +17,6 @@ date: 2023-8-18
   平时喜欢打羽毛球，画油画，看剧<br>
   喜欢开阔的景色，喜欢骑车吹风，喜欢冒险，喜欢意外发现 ✨<br><br>
 
-Hi there! I'm Xuan. 
-I enjoy playing badminton, painting with oil colors, and watching tv series! 
+Hi there! I'm Xuan. <br>
+I enjoy playing badminton, painting with oil colors, and watching tv series! <br>
 I love expansive landscapes, cycling with the wind, seeking adventure, and relishing in serendipitous discoveries.
