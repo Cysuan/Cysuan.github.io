@@ -34,7 +34,7 @@ date: 2023-8-20
 也愿意探索更高效的工作模式，<br>
 期待与志同道合的人一起探索、学习和成长。<br>
 🤝<br><br>
-作为一个女性，<br>
+作为一名女性，<br>
 我坚决反对职场中的性别歧视，也相信自己有无限可能。<br>
 Stacey Abrams是我特别敬佩的女性榜样，我也想成为这样的人，<br>
 down-to-earth, grassroots, "aggressively" pushing for the good causes.<br>
